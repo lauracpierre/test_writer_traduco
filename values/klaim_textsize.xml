@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Global -->
+    <dimen name="app_micro">12dp</dimen>
+    <dimen name="app_small">14dp</dimen>
+    <dimen name="app_medium">16dp</dimen>
+    <dimen name="app_large">18dp</dimen>
+	<dimen name="app_large_">19dp</dimen>
+    <dimen name="app_xlarge">20dp</dimen>
+    <dimen name="app_xxlarge">22dp</dimen>
+    <dimen name="app_xxxlarge">24dp</dimen>
+    <dimen name="app_xxxxlarge">26dp</dimen>
+    <!-- Register -->
+    <dimen name="register_klaimcodefinal">29dp</dimen>
+</resources>

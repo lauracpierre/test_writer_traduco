@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Titles">
+        <item name="android:textColor">#696969</item>
+        <item name="android:background">#FFE4B5</item>
+        <item name="android:textSize">15dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- 
+    
+    <string name="state_message_wait">Chargement message ...</string>
+ -->
+    <style name="shadow">
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">-2.0</item>
+        <item name="android:shadowRadius">0.5</item>
+        <item name="android:shadowColor">@color/shadow_grey</item>
+    </style>
+
+    <style name="shadow_white">
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">2.0</item>
+        <item name="android:shadowRadius">0.5</item>
+        <item name="android:shadowColor">@color/shadow_white</item>
+    </style>
+
+    <style name="style_edittext">
+		<item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/ics_edittext_state</item>
+        <item name="android:textColor">@color/grey_verystrong</item>
+        <item name="android:textColorHint">@color/grey_strong</item>
+        <item name="android:textSize">@dimen/app_small</item>
+    </style>
+</resources>

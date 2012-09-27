@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFF</color>
+    <color name="blue">#0099CC</color>
+    <color name="black">#000</color>
+    <color name="grey">#E5E5E5</color>
+    <color name="grey_verystrong">#707070</color>
+    <color name="grey_strong">#999999</color>
+    <color name="grey_light">#C1C1C1</color>
+    <color name="grey_smooth">#C4C4C4</color>
+    <color name="green_strong">#5E8C00</color>
+    <color name="green_smooth">#799F2B</color>
+    <color name="green_medium">#99CC00</color>
+    <color name="green_light">#9EBA66</color>
+    <color name="orange_superstrong">#F48200</color>
+    <color name="orange_verystrong">#FF8A00</color>
+    <color name="orange_strong">#FF9909</color>
+    <color name="orange_smooth">#FFBB33</color>
+    <color name="orange_soft">#FFC641</color>
+    <color name="orange_light">#FFD98000</color>
+    <color name="orange_medium">#FFBD21</color>
+    <color name="orange_verylight">#FFB966</color>
+    <color name="blue_light">#003F53</color>
+    <color name="blue_strong">#002E3E</color>
+    <color name="blue_medium">#33B5E5</color>
+    <color name="blue_smooth">#87A8A7</color>
+
+    <!-- Shadows -->
+    <color name="shadow_grey">#7F7F7F</color>
+    <color name="shadow_white">#FFFFFF</color>
+
+    <!-- ContactInfo -->
+    <color name="contactinfo_background">#9030C0</color>
+    <color name="contactinfo_background_pressed">#C292DA</color>
+    <color name="contactinfo_sendklaim_lowerborder">#CCCCCC</color>
+    <color name="contactinfo_contactname_background">#50000000</color>
+
+    <!-- Login Screen -->
+    <color name="loginscreen_edittext">#71797C</color>
+    <color name="loginscreen_loginfacebook_background">#669900</color>
+    <color name="loginscreen_loginfacebook_background_pressed">#E0EBCC</color>
+    <color name="loginscreen_loginfacebook_lowerborder">#D3E992</color>
+
+    <!-- Login Facebook -->
+    <color name="loginfacebook_bottom">#D2D2D2</color>
+    <color name="loginfacebook_button">#7E7E7E</color>
+
+    <!-- Register Item -->
+    <color name="register_congratulation">#F2F2F2</color>
+
+    <!-- ContactList Separator -->
+    <color name="contactlist_separator">#FF8800</color>
+
+    <!-- ConversationList Item -->
+    <color name="conversationlist_item_date">#333333</color>
+    <color name="conversationlist_item_lastmessage">#777777</color>
+
+    <!-- ConversationList Separator -->
+    <color name="conversationlist_separator">#E5E5E5</color>
+
+    <!-- ConversationThread Item -->
+    <color name="conversationthread_item_date">#999999</color>
+    <color name="conversationthread_item_date_stoke">#CCCCCC</color>
+
+    <!-- ConversationThread -->
+    <color name="conversationthread_separator">#33B5E5</color>
+    <color name="conversationthread_recipient">#666666</color>
+
+</resources>
