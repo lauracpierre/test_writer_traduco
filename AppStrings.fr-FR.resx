@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AboutPage_Button_EmailSupport" xml:space="preserve">
+    <value>Support</value>
+  <comment>Hello commentaire !</comment></data>
+  <data name="AboutPage_Labels_Content" xml:space="preserve">
+    <value>Klaim is an application that lets you communicate with your friends like never before. It's like SMS, but faster, safer, and more reliable. With us, you'll never lose a text again.</value>
+  </data>
+  <data name="AboutPage_Links_Privacy" xml:space="preserve">
+    <value>Privacy Policy</value>
+  </data>
+  <data name="AboutPage_Links_Terms" xml:space="preserve">
+    <value>Terms of Service</value>
+  </data>
+  <data name="AboutPage_TaskSupport_Body" xml:space="preserve">
+    <value>Describe here the issue(s) you've been having with our app. 
+
+We also welcome any suggestion or comment that you would have toward us!
+
+My Klaim Code: {0}</value>
+  </data>
+  <data name="AboutPage_TaskSupport_Subject" xml:space="preserve">
+    <value>I have a problem with the WP7 App!</value>
+  </data>
+  <data name="AboutPage_Title" xml:space="preserve">
+    <value>about</value>
+  </data>
+  <data name="App_MessageBox_FbSync_Content" xml:space="preserve">
+    <value>Do you want us to match your facebook friends to Klaim users so you don't have to add them manually as contacts?</value>
+  </data>
+  <data name="App_MessageBox_FbSync_Title" xml:space="preserve">
+    <value>Facebook Sync</value>
+  </data>
+  <data name="ContactEditPage_AppBar_Cancel" xml:space="preserve">
+    <value>cancel</value>
+  </data>
+  <data name="ContactEditPage_AppBar_Done" xml:space="preserve">
+    <value>done</value>
+  </data>
+  <data name="ContactEditPage_Labels_Code" xml:space="preserve">
+    <value>Klaim Code</value>
+  </data>
+  <data name="ContactEditPage_Labels_Name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="ContactEditPage_MessageBoxContent_Duplicate" xml:space="preserve">
+    <value>You already have a contact with this Klaim Code!</value>
+  </data>
+  <data name="ContactEditPage_MessageBoxContent_RemovePicture" xml:space="preserve">
+    <value>Your contact's default picture will be restored.</value>
+  </data>
+  <data name="ContactEditPage_MessageBoxTitle_Duplicate" xml:space="preserve">
+    <value>Duplicate</value>
+  </data>
+  <data name="ContactEditPage_MessageBoxTitle_RemovePicture" xml:space="preserve">
+    <value>Remove picture?</value>
+  </data>
+  <data name="ContactEditPage_Title_EditContact" xml:space="preserve">
+    <value>Edit Contact</value>
+  </data>
+  <data name="ContactListPage_AppBar_New" xml:space="preserve">
+    <value>new</value>
+  </data>
+  <data name="ContactListPage_Labels_NoContacts" xml:space="preserve">
+    <value>You have no contacts</value>
+  </data>
+  <data name="ContactListPage_Title_People" xml:space="preserve">
+    <value>people</value>
+  </data>
+  <data name="ContactViewPage_AppBar_Delete" xml:space="preserve">
+    <value>delete</value>
+  </data>
+  <data name="ContactViewPage_AppBar_Edit" xml:space="preserve">
+    <value>edit</value>
+  </data>
+  <data name="ContactViewPage_Labels_SendKlaim" xml:space="preserve">
+    <value>send klaim</value>
+  </data>
+  <data name="ContactViewPage_MessageBoxContent_Delete" xml:space="preserve">
+    <value>This won't affect the related messages.</value>
+  </data>
+  <data name="ContactViewPage_MessageBoxTitle_Delete" xml:space="preserve">
+    <value>Delete contact?</value>
+  </data>
+  <data name="ContactViewPage_Title_Profile" xml:space="preserve">
+    <value>profile</value>
+  </data>
+  <data name="ConversationControl_TextBox_TypeMessage" xml:space="preserve">
+    <value>type a message</value>
+  </data>
+  <data name="ConversationPage_AppBar_Attach" xml:space="preserve">
+    <value>attach</value>
+  </data>
+  <data name="ConversationPage_AppBar_Contact_Add" xml:space="preserve">
+    <value>add to contacts</value>
+  </data>
+  <data name="ConversationPage_AppBar_Contact_View" xml:space="preserve">
+    <value>view contact</value>
+  </data>
+  <data name="ConversationPage_AppBar_Delete" xml:space="preserve">
+    <value>delete conversation</value>
+  </data>
+  <data name="ConversationPage_AppBar_Send" xml:space="preserve">
+    <value>send</value>
+  </data>
+  <data name="ConversationPage_Context_CopyMessage" xml:space="preserve">
+    <value>copy</value>
+  </data>
+  <data name="ConversationPage_Context_DeleteMessage" xml:space="preserve">
+    <value>delete</value>
+  </data>
+  <data name="ConversationPage_Context_Forward" xml:space="preserve">
+    <value>forward</value>
+  </data>
+  <data name="ConversationPage_Labels_To" xml:space="preserve">
+    <value>To:</value>
+  </data>
+  <data name="ConversationPage_MessageBoxContent_Delete" xml:space="preserve">
+    <value>All the messages in this conversation will be deleted from the server.</value>
+  </data>
+  <data name="ConversationPage_MessageBoxTitle_Delete" xml:space="preserve">
+    <value>Delete conversation?</value>
+  </data>
+  <data name="DateFormat_DayMonth" xml:space="preserve">
+    <value>M/dd</value>
+  </data>
+  <data name="DateFormat_DayName" xml:space="preserve">
+    <value>ddd</value>
+  </data>
+  <data name="DateFormat_FullDate" xml:space="preserve">
+    <value>d</value>
+  </data>
+  <data name="DateFormat_Separator" xml:space="preserve">
+    <value>,</value>
+  </data>
+  <data name="DateFormat_ShortTime" xml:space="preserve">
+    <value>h:mmt</value>
+  </data>
+  <data name="EditProfilePage_Labels_Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="EditProfilePage_Labels_FName" xml:space="preserve">
+    <value>First Name</value>
+  </data>
+  <data name="EditProfilePage_Labels_LName" xml:space="preserve">
+    <value>Last Name</value>
+  </data>
+  <data name="EditProfilePage_Labels_Share" xml:space="preserve">
+    <value>Share with other users</value>
+  </data>
+  <data name="EditProfilePage_Labels_Title" xml:space="preserve">
+    <value>Edit Profile</value>
+  </data>
+  <data name="EditProfilePage_MessageBoxContent_RemovePicture" xml:space="preserve">
+    <value>Your default avatar will be restored.</value>
+  </data>
+  <data name="EditProfilePage_MessageBoxTitle_RemovePicture" xml:space="preserve">
+    <value>Remove avatar?</value>
+  </data>
+  <data name="EditProfile_AppBar_Cancel" xml:space="preserve">
+    <value>cancel</value>
+  </data>
+  <data name="EditProfile_AppBar_Done" xml:space="preserve">
+    <value>done</value>
+  </data>
+  <data name="LoginPage_Buttons_FacebookCancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="LoginPage_Buttons_FacebookLogin" xml:space="preserve">
+    <value>Login with Facebook</value>
+  </data>
+  <data name="LoginPage_Buttons_Login" xml:space="preserve">
+    <value>login</value>
+  </data>
+  <data name="LoginPage_Buttons_Register" xml:space="preserve">
+    <value>register</value>
+  </data>
+  <data name="LoginPage_Labels_Code" xml:space="preserve">
+    <value>Klaim Code / Email</value>
+  </data>
+  <data name="LoginPage_Labels_FacebookLoading" xml:space="preserve">
+    <value>Loading...</value>
+  </data>
+  <data name="LoginPage_Labels_Password" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="LoginPage_MessageBoxContent_LoginFailed" xml:space="preserve">
+    <value>Verify your Klaim Code and Password.</value>
+  </data>
+  <data name="LoginPage_MessageBoxContent_MissingFields" xml:space="preserve">
+    <value>All fields are required.</value>
+  </data>
+  <data name="LoginPage_MessageBoxTitle_LoginFailed" xml:space="preserve">
+    <value>Login failed</value>
+  </data>
+  <data name="LoginPage_MessageBoxTitle_MissingFields" xml:space="preserve">
+    <value>Missing fields</value>
+  </data>
+  <data name="LoginPage_Title_Login" xml:space="preserve">
+    <value>login</value>
+  </data>
+  <data name="MainPage_AppBar_Contacts" xml:space="preserve">
+    <value>contacts</value>
+  </data>
+  <data name="MainPage_AppBar_New" xml:space="preserve">
+    <value>new</value>
+  </data>
+  <data name="MainPage_AppBar_Settings" xml:space="preserve">
+    <value>settings</value>
+  </data>
+  <data name="MainPage_Context_DeleteConversation" xml:space="preserve">
+    <value>delete</value>
+  </data>
+  <data name="MainPage_Labels_NoConversations" xml:space="preserve">
+    <value>You have no conversations</value>
+  </data>
+  <data name="MainPage_MessageBoxContent_Delete" xml:space="preserve">
+    <value>All the messages in this conversation will be deleted from the server.</value>
+  </data>
+  <data name="MainPage_MessageBoxTitle_Delete" xml:space="preserve">
+    <value>Delete conversation?</value>
+  </data>
+  <data name="MainPage_Title_Conversations" xml:space="preserve">
+    <value>conversations</value>
+  </data>
+  <data name="NetworkManager_MessageBoxContent_NoNetwork" xml:space="preserve">
+    <value>It seems that you are not connected to the network. Restart Klaim when you are.</value>
+  </data>
+  <data name="NetworkManager_MessageBoxTitle_NoNetwork" xml:space="preserve">
+    <value>No connection</value>
+  </data>
+  <data name="NewMessagePage_MessageBoxContent_RemoveRecipient" xml:space="preserve">
+    <value>Do you want to remove this recipient?</value>
+  </data>
+  <data name="Register1Page_AppBar_Cancel" xml:space="preserve">
+    <value>cancel</value>
+  </data>
+  <data name="Register1Page_AppBar_Continue" xml:space="preserve">
+    <value>continue</value>
+  </data>
+  <data name="Register1Page_Labels_Code" xml:space="preserve">
+    <value>Klaim Code</value>
+  </data>
+  <data name="Register1Page_Labels_CodeHint" xml:space="preserve">
+    <value>(4 char length)</value>
+  </data>
+  <data name="Register1Page_Labels_Email" xml:space="preserve">
+    <value>Email address</value>
+  </data>
+  <data name="Register1Page_Labels_Eula" xml:space="preserve">
+    <value>I certify that I am at least 13 years of age and accept the Klaim service agreement</value>
+    <comment>The text between | and || will be a link to the Klaim Terms of use.</comment>
+  </data>
+  <data name="Register1Page_Labels_Password" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="Register1Page_Labels_PasswordConf" xml:space="preserve">
+    <value>Password confirmation</value>
+  </data>
+  <data name="Register1Page_Labels_ViewEula" xml:space="preserve">
+    <value>View the Klaim service agreement</value>
+  </data>
+  <data name="Register1Page_MessageBoxContent_BadCode" xml:space="preserve">
+    <value>This Klaim Code is not available.</value>
+  </data>
+  <data name="Register1Page_MessageBoxTitle_BadCode" xml:space="preserve">
+    <value>Bad Klaim Code</value>
+  </data>
+  <data name="Register1Page_Title_Register" xml:space="preserve">
+    <value>Register</value>
+  </data>
+  <data name="Register2Page_AppBar_Back" xml:space="preserve">
+    <value>back</value>
+  </data>
+  <data name="Register2Page_AppBar_Cancel" xml:space="preserve">
+    <value>cancel</value>
+  </data>
+  <data name="Register2Page_AppBar_Continue" xml:space="preserve">
+    <value>continue</value>
+  </data>
+  <data name="Register2Page_Labels_Box1" xml:space="preserve">
+    <value>Congratulations, your Klaim Code is</value>
+  </data>
+  <data name="Register2Page_Labels_Box2" xml:space="preserve">
+    <value>We're almost done !</value>
+  </data>
+  <data name="Register2Page_Labels_FName" xml:space="preserve">
+    <value>First name</value>
+  </data>
+  <data name="Register2Page_Labels_LName" xml:space="preserve">
+    <value>Last name</value>
+  </data>
+  <data name="Register2Page_MessageBoxContent_RegFailed" xml:space="preserve">
+    <value>An error occured during registration.</value>
+  </data>
+  <data name="Register2Page_MessageBoxTitle_RegFailed" xml:space="preserve">
+    <value>Registration failed</value>
+  </data>
+  <data name="Register2Page_Title_Register" xml:space="preserve">
+    <value>Register</value>
+  </data>
+  <data name="SettingPage_Element_SignOut_Description" xml:space="preserve">
+    <value>remove your account from this phone</value>
+  </data>
+  <data name="SettingsPage_Element_About_Description" xml:space="preserve">
+    <value>terms of use, privacy, support</value>
+  </data>
+  <data name="SettingsPage_Element_About_Title" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="SettingsPage_Element_EditProfile_Description" xml:space="preserve">
+    <value>name, email, notifications</value>
+  </data>
+  <data name="SettingsPage_Element_EditProfile_Title" xml:space="preserve">
+    <value>Edit Profile</value>
+  </data>
+  <data name="SettingsPage_Element_ShareCode_Description" xml:space="preserve">
+    <value>SMS, email, social networks</value>
+  </data>
+  <data name="SettingsPage_Element_ShareCode_Title" xml:space="preserve">
+    <value>Share my code</value>
+  </data>
+  <data name="SettingsPage_Element_SignOut_Title" xml:space="preserve">
+    <value>Sign out</value>
+  </data>
+  <data name="SettingsPage_MessageBoxContent_Error" xml:space="preserve">
+    <value>We can't contact the server right now. Try again later.</value>
+  </data>
+  <data name="SettingsPage_MessageBoxContent_SignOut" xml:space="preserve">
+    <value>Are you sure you want to sign out from Klaim?</value>
+  </data>
+  <data name="SettingsPage_MessageBoxTitle_Error" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="SettingsPage_MessageBoxTitle_SignOut" xml:space="preserve">
+    <value>Bye bye!</value>
+  </data>
+  <data name="SettingsPage_ShareChoice_Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="SettingsPage_ShareChoice_Messaging" xml:space="preserve">
+    <value>Messaging</value>
+  </data>
+  <data name="SettingsPage_ShareChoice_SocialNetwork" xml:space="preserve">
+    <value>Social network</value>
+  </data>
+  <data name="SettingsPage_ShareChoice_Title" xml:space="preserve">
+    <value>How do you want to share?</value>
+  </data>
+  <data name="SettingsPage_ShareMessage_Email_Content" xml:space="preserve">
+    <value>Hi,
+
+My Klaim Code is {0} !
+
+Not on Klaim? Check it out: http://klaim.it !</value>
+    <comment>{0} will be replaced by the Klaim Code.</comment>
+  </data>
+  <data name="SettingsPage_ShareMessage_Email_Subject" xml:space="preserve">
+    <value>You can now Klaim me!</value>
+  </data>
+  <data name="SettingsPage_ShareMessage_SMS" xml:space="preserve">
+    <value>My Klaim Code is {0} !</value>
+    <comment>{0} will be replaced by the Klaim Code.</comment>
+  </data>
+  <data name="SettingsPage_ShareMessage_SocialNetwork" xml:space="preserve">
+    <value>My Klaim Code is {0} ! Not on Klaim? Check it out: http://klaim.it/ !</value>
+    <comment>{0} will be replaced by the Klaim Code.</comment>
+  </data>
+  <data name="SettingsPage_Title" xml:space="preserve">
+    <value>Klaim Settings</value>
+  </data>
+</root>
