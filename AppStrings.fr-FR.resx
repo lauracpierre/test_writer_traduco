@@ -124,7 +124,7 @@
     <value>Klaim is an application that lets you communicate with your friends like never before. It's like SMS, but faster, safer, and more reliable. With us, you'll never lose a text again.</value>
   </data>
   <data name="AboutPage_Links_Privacy" xml:space="preserve">
-    <value>Privacy Policy</value>
+    <value>Policy</value>
   </data>
   <data name="AboutPage_Links_Terms" xml:space="preserve">
     <value>Terms of Service</value>
@@ -140,7 +140,7 @@ My Klaim Code: {0}</value>
     <value>I have a problem with the WP7 App!</value>
   </data>
   <data name="AboutPage_Title" xml:space="preserve">
-    <value>about</value>
+    <value>A propos</value>
   </data>
   <data name="App_MessageBox_FbSync_Content" xml:space="preserve">
     <value>Do you want us to match your facebook friends to Klaim users so you don't have to add them manually as contacts?</value>
@@ -149,7 +149,7 @@ My Klaim Code: {0}</value>
     <value>Facebook Sync</value>
   </data>
   <data name="ContactEditPage_AppBar_Cancel" xml:space="preserve">
-    <value>cancel</value>
+    <value>Annuler</value>
   </data>
   <data name="ContactEditPage_AppBar_Done" xml:space="preserve">
     <value>done</value>
